@@ -2760,11 +2760,11 @@
       "name": "Skype",
       "type": "folder",
       "children": [
-      {
+/* redirects to teams :P      {
         "name": "Skype Web Client",
         "type": "url",
         "url": "https://web.skype.com/"
-      },
+      },*/
       {
         "name": "MostwantedHF",
         "type": "url",
@@ -2796,17 +2796,17 @@
         "url": "http://kik.me/%3Cusername%3E"
       }]
     },
-    {
-      "name": "Yikyak",
-      "type": "folder",
-      "children": [
-      {
-        "name": "YikMap",
-        "type": "url",
-        "url": "http://yikmap.com/"
-      }]
-    }]
-  },
+  //   {
+  //     "name": "Yikyak",
+  //     "type": "folder",          NOT EXISTS YET :p
+  //     "children": [
+  //     {
+  //       "name": "YikMap",
+  //       "type": "url",
+  //       "url": "http://yikmap.com/"
+  //     }]
+    // }][]
+  // },
   {
     "name": "People Search Engines",
     "type": "folder",
@@ -5943,9 +5943,9 @@
       "url": "https://chatgpt.com/"
     },
     {
-      "name": "WormGPT-6 (R)",
+      "name": "Qwen (R)",
       "type": "url",
-      "url": "https://flowgpt.com/p/wormgpt-6"
+      "url": "https://qwen.ai/"
     }]
   },  
   {
