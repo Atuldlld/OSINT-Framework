@@ -1266,6 +1266,11 @@
         "url": "http://www.infosniper.net/"
       },
       {
+        "name": "IPinfo",
+        "type": "url",
+        "url": "https://ipinfo.io/"
+      },
+      {
         "name": "utrace",
         "type": "url",
         "url": "http://en.utrace.de/"
